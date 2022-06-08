@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  },
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /ready-made-solutions-js/"
+  },
+  "name": "ready-made-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaBezrukova8/ready-made-solutions-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaBezrukova8/ready-made-solutions-js/issues"
+  },
+  "homepage": "https://github.com/OlgaBezrukova8/ready-made-solutions-js#readme",
+  "description": ""
+}
